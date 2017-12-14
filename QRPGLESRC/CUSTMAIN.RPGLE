@@ -7,7 +7,7 @@
 000106171214      // DESCRIPTION:    This is a customer main inquiry program.      *
 000107171214      //                 It prompts the user to choose from one of the *
 000108171214      //                 following actions:                            *
-000113171214      //                 1.Maintain (add, update, delete and display)  *
+000113171214      //                 1. This is a new branch                       *
 000114171214      //                   customer records.                           *
 000115171214      //                 2.Search customer record by zip code.         *
 000116171214      //                 3.Search customer record by name.             *
